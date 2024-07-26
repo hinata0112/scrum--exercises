@@ -1,1 +1,1 @@
-# scrum--exercises
+# scrum-exercises
